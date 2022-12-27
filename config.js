@@ -46,14 +46,11 @@ var config = {
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
         "心爱的宝贝": "./imgs/baby.jpg",
-        "今天是我们的纪念日": "./imgs/zhounian.jpg",
         "这是我们在一起的": "./imgs/zaiyiqi.jpg",
         "第1个周年": "./imgs/zhounian.jpg",
-        "这一年来，我见过你": "./imgs/yangzi.jpeg",
         "奇怪的样子": "./imgs/qiguai.jpg",
         "可爱的样子": "./imgs/ka.jpg",
         "生气的样子": "./imgs/nothing.jpg",
-        //"都是我喜欢的样子": "./imgs/nothing.jpg",
         "我们一起去过世博园":"./imgs/sby.jpg",
         "我们一起去过海洋馆":"./imgs/hyg.jpg",
         "我们一起去过博物院":"./imgs/bwy.jpg",
@@ -68,8 +65,6 @@ var config = {
         "你送我开心":"./imgs/kx.jpg",
         "我送你快乐":"./imgs/kl.jpg",
         "明年要吃好好的": "./imgs/chuo.jpeg",
-        //"喂饱饱的": "./imgs/weibao.jpeg",
-        //"然后才有力气干活": "./imgs/nothing.jpg",
         "和想我！": "./imgs/w.jpg",
         "周年快乐~~": "./imgs/jnkl.jpg"
     },
