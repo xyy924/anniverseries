@@ -64,9 +64,9 @@ var config = {
         "一起看电视":"./imgs/nothing.jpg",
         "你送我开心":"./imgs/kx.jpg",
         "我送你快乐":"./imgs/kl.jpg",
-        "明年要吃好好的": "./imgs/chuo.jpeg",
+        "明年要吃好好的": "./imgs/chuo.gif",
         "和想我！": "./imgs/w.jpg",
-        "周年快乐~~": "./imgs/jnkl.jpg"
+        "周年快乐~~": "./imgs/znkl.jpg"
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
