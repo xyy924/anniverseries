@@ -1284,7 +1284,7 @@ audio {
 .message p img{
 	display: block;
 	max-width: 80%;
-	max-height: 200px;
+	max-height: 400px;
 	margin: 5px auto;
 	border-radius: 50%;
 	box-shadow: #aaa 0 0 4px;
